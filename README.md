@@ -75,3 +75,7 @@ Create a pull request
 If you find this repo useful, don’t forget to ⭐ star the repository and follow for more updates!
 
 ---
+
+Flow Chart Of Java
+
+![alt text](<flow chart.png>)
