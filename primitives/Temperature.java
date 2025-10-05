@@ -9,5 +9,6 @@ public class Temperature {
         float celsius = in.nextFloat();
         float fahrenheit = (celsius * 9/5) + 32;
         System.out.println("Temperature in Fahrenheit: " + fahrenheit);
+        in.close();
     }
 }

@@ -14,6 +14,6 @@ public class inputs {
 
         String name = input.nextLine();
         System.out.println("Your name is: " + name);
-        
+        input.close();
     }
 }
